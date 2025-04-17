@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: mdirshaq/dev-test1:7
+          image: mdirshaq/dev-test3:8
           ports:
             - containerPort: 80  # Fixed key name
 
